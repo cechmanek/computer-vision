@@ -1,0 +1,47 @@
+openCV python tutorials reference
+
+tut1		loading displaying saving images
+tut2		video capture
+tut2-5		saving captured video
+tut3		drawing tools
+tut4		painting with mouse pointer
+tut4-5		drawing multiple objects via mouse
+tut5		creating a trackbar to choose color
+tut6		simple image operations
+tut7		arithmetic operations on images
+tut8		timing function to evaluate performance
+tut9		changing colorspaces, tracking via color
+tut10
+tut10-2		image thresholding, adaptive thresholding
+tut11
+tut12
+tut13		morphological transforms
+tut14		image gradients
+tut15		canny edge detection
+tut15-2		canny edge detection - project
+tut16		image pyramids
+tut17		contours
+tut18		contour features
+tut19		contour properties
+tut20		contours: more functions
+tut21		contours hierarchy
+tut22		histograms -1: find, plot, analyze
+tut23		histograms -2: histogram equalization
+tut23-2		histograms -2: adaptive equalization
+tut24		histograms -3: 2d histograms
+tut25		histograms -4: histogram back projection
+tut26		Fourier transforms
+tut27		template matching
+tut27-2		template matching - multiple matches
+tut28		Hough line transform
+tut28-2		Hough line transform - probabilistic detection
+tut29		Houch circle transform
+tut30		watershed algorithm
+tut31		interactive foreground extraction
+---			FEATURE DETECTION AND DESCRIPTION
+tut32 		Harris corner detection
+tut32-2		Harris corners, parameter adjustments
+tut32-3		Harris corners, sub pixel accuracy
+tut33 		shi-tomasi corners
+tut34		SIFT - (patented algorithm not in free openCV)
+tut35		SURF
